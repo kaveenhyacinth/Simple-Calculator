@@ -87,7 +87,7 @@ namespace CalculatorApp
             }
         }
 
-        // Arithmatic operation controlling
+        // ControlArithmatic Operatios
         private void Operation_Click(object sender, EventArgs e)
         {
             Label opr = sender as Label;
